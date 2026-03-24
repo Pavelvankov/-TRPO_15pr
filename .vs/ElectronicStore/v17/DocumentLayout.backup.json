@@ -1,0 +1,425 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\tagsmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\tagsmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\tagsmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\tagsmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\productsmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\productsmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\productsmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\productsmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\productspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\brandsmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\brandsmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\brandsmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\brandsmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\categoriesmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\categoriesmanagepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\managerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\productspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\models\\electronicsstorepr15context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\models\\electronicsstorepr15context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\pages\\categoriesmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\pages\\categoriesmanagepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|c:\\users\\vankova\\desktop\\\u0442\u0440\u043F\u043E\\pr_15_vankov\\electronics_store_v4\\electronicstore\\electronicstore\\electronicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE19653C-C901-432B-BC5F-8254372E01C5}|ElectronicStore\\ElectronicStore.csproj|solutionrelative:electronicstore\\electronicstore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsManagePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsManagePage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\ProductsManagePage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsManagePage.xaml*",
+              "RelativeToolTip": "ElectronicStore\\Pages\\ProductsManagePage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:36:49.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TagsManagePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\TagsManagePage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\TagsManagePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\TagsManagePage.xaml.cs*",
+              "RelativeToolTip": "ElectronicStore\\Pages\\TagsManagePage.xaml.cs*",
+              "ViewState": "AgIAAEcAAAAAAAAAAAA+wF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:35:54.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsManagePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsManagePage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\ProductsManagePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsManagePage.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\Pages\\ProductsManagePage.xaml.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:32:57.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagsManagePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\TagsManagePage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\TagsManagePage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\TagsManagePage.xaml",
+              "RelativeToolTip": "ElectronicStore\\Pages\\TagsManagePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:29:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ManagerPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\ManagerPage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ManagerPage.xaml",
+              "RelativeToolTip": "ElectronicStore\\Pages\\ManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:32:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\ProductsPage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsPage.xaml",
+              "RelativeToolTip": "ElectronicStore\\Pages\\ProductsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T09:30:14.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandsManagePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\BrandsManagePage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\BrandsManagePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\BrandsManagePage.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\Pages\\BrandsManagePage.xaml.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:00:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandsManagePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\BrandsManagePage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\BrandsManagePage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\BrandsManagePage.xaml",
+              "RelativeToolTip": "ElectronicStore\\Pages\\BrandsManagePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:51:25.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesManagePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\CategoriesManagePage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\CategoriesManagePage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\CategoriesManagePage.xaml",
+              "RelativeToolTip": "ElectronicStore\\Pages\\CategoriesManagePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:42:27.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "ElectronicStore\\Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T08:25:54.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\ManagerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ManagerPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\Pages\\ManagerPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:33:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:28:17.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\ProductsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\ProductsPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\Pages\\ProductsPage.xaml.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAF8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:33:09.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\Product.cs",
+              "RelativeToolTip": "ElectronicStore\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:29:21.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ElectronicsStorePr15Context.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\ElectronicsStorePr15Context.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Models\\ElectronicsStorePr15Context.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\ElectronicsStorePr15Context.cs",
+              "RelativeToolTip": "ElectronicStore\\Models\\ElectronicsStorePr15Context.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:16:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\Category.cs",
+              "RelativeToolTip": "ElectronicStore\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:17:19.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Models\\Brand.cs",
+              "RelativeToolTip": "ElectronicStore\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T08:17:18.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\App.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\App.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\App.xaml",
+              "RelativeToolTip": "ElectronicStore\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T08:29:57.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ElectronicStore\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\MainWindow.xaml",
+              "RelativeToolTip": "ElectronicStore\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T07:57:29.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\AssemblyInfo.cs",
+              "RelativeToolTip": "ElectronicStore\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T10:29:08.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoriesManagePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\CategoriesManagePage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\Pages\\CategoriesManagePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\Pages\\CategoriesManagePage.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\Pages\\CategoriesManagePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T09:00:03.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Administrator\\AppData\\Local\\Temp\\.vsdbgsrc\\5917cbb70f9b28a245decce13428c9b8b0242b7bced3975c23780bdc4e8c9caa\\XamlReader.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAPkBAAAAAAAAAAAswP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T09:51:25.573Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStore\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ElectronicStore\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T07:57:25.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ElectronicStore.csproj",
+              "DocumentMoniker": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\ElectronicStore.csproj",
+              "RelativeDocumentMoniker": "ElectronicStore\\ElectronicStore.csproj",
+              "ToolTip": "C:\\Users\\Vankova\\Desktop\\\u0422\u0420\u041F\u041E\\pr_15_Vankov\\Electronics_store_v4\\ElectronicStore\\ElectronicStore\\ElectronicStore.csproj",
+              "RelativeToolTip": "ElectronicStore\\ElectronicStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-21T08:24:50.815Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1076,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
