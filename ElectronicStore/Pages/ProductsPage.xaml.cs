@@ -33,7 +33,7 @@ public partial class ProductsPage : Page
 
     public ProductsPage(bool isManager = false)
     {
-        Application.Current.MainWindow.Title = "магазина электроники";
+        Application.Current.MainWindow.Title = "Магазин электроники";
         productsView = CollectionViewSource.GetDefaultView(products);
         productsView.Filter = FilterProducts;
         InitializeComponent();
