@@ -53,9 +53,7 @@
             <Label FontSize="16">Цена</Label>
             <TextBox x:Name="PriceFromBox" Text="{Binding filterPriceFrom, UpdateSourceTrigger=PropertyChanged}" TextChanged="TextBox_TextChanged" materialDesign:HintAssist.Hint="от" Background="#00C4B4" Margin="0,0,0,10"/>
             <TextBox x:Name="PriceToBox" Text="{Binding filterPriceTo, UpdateSourceTrigger=PropertyChanged}" TextChanged="TextBox_TextChanged" materialDesign:HintAssist.Hint="до" Background="#00C4B4" Margin="0,0,0,10"/>
-            <TextBlock x:Name="Error" Foreground="Red" FontSize="12" Margin="10 0 10 0" Visibility="Collapsed" Text="от не должна привышать до"/>
-
-
+            <TextBlock x:Name="Error" Foreground="Red" FontSize="12" Margin="10 0 10 0" Visibility="Collapsed"/>
             <Button Click="ResetFilters" Margin="0,0,0,10">Сбросить</Button>
             <Button x:Name="ManagerPanelButton" Margin="0,0,0,10" Visibility="Collapsed" Click="ManagerPanelButton_Click">Панель менеджера</Button>
         </StackPanel>
