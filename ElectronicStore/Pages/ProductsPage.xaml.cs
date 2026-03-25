@@ -88,6 +88,17 @@ public partial class ProductsPage : Page
 
     private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
     {
+
+        bool fromHasLetters = !string.IsNullOrEmpty(filterPriceFrom) && !decimal.TryParse(filterPriceFrom, out _);
+        bool toHasLetters   = !string.IsNullOrEmpty(filterPriceTo) && !decimal.TryParse(filterPriceTo, out _);
+
+        if (fromHasLetters || toHasLetters)
+        {
+            Error.Text = "цена должна содержать только цифры";
+            Error.Visibility = Visibility.Visible;
+            return;
+        }
+        
         if (!string.IsNullOrEmpty(filterPriceFrom) && !string.IsNullOrEmpty(filterPriceTo))
         {
             if (decimal.TryParse(filterPriceFrom, out decimal from) &&
@@ -95,17 +106,13 @@ public partial class ProductsPage : Page
             {
                 if (from > to)
                 {
+                    Error.Text = "от не должна превышать до";
                     Error.Visibility = Visibility.Visible;
-                    return;
-                }
-                else
-                {
-                    Error.Visibility = Visibility.Collapsed;
                     return;
                 }
             }
         }
-
+        Error.Visibility = Visibility.Collapsed;
         productsView.Refresh();
     }
 
