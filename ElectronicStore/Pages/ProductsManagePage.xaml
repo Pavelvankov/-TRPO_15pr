@@ -37,13 +37,13 @@
                     <TextBox x:Name="DescriptionBox"  TextWrapping="Wrap" Height="60" AcceptsReturn="True"/>
 
                     <Label Content="Цена"/>
-                    <TextBox x:Name="PriceBox" />
+                    <TextBox x:Name="PriceBox" PreviewTextInput="PriceBox_PreviewTextInput" />
 
                     <Label Content="Количество"/>
                     <TextBox x:Name="StockBox"/>
 
                     <Label Content="Рейтинг"/>
-                    <TextBox x:Name="RatingBox"/>
+                    <TextBox x:Name="RatingBox" PreviewTextInput="RatingBox_PreviewTextInput_1"/>
 
                     <Label Content="Дата добавления"/>
                     <TextBox x:Name="CreatedAtBox" />

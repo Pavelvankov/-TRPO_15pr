@@ -180,6 +180,25 @@ namespace ElectronicStore.Pages
         {
             NavigationService.Navigate(new ManagerPage());
         }
-            
+        private void RatingBox_PreviewTextInput(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+   
+        }
+
+        private void RatingBox_PreviewTextInput_1(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+            if (!char.IsDigit(e.Text, 0) && e.Text != ",")
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void PriceBox_PreviewTextInput(object sender, System.Windows.Input.TextCompositionEventArgs e)
+        {
+            if (!char.IsDigit(e.Text, 0) && e.Text != ",")
+            {
+                e.Handled = true;
+            }
+        }
     }
 }
