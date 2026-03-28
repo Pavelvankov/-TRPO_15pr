@@ -73,6 +73,13 @@ namespace ElectronicStore.Pages
         {
             if (selectedItem == null) { MessageBox.Show("Выберите тег"); return; }
 
+            var hasProducts = db.Products.Any(p => p.Tags.Any(t => t.Id == selectedItem.Id));
+
+            if (hasProducts)
+            {
+                MessageBox.Show("Нельзя удалить тег. Сначала удалите товары с этим тегом.");
+                return;
+            }
             if (MessageBox.Show("Удалить тег?", "Подтверждение",
                 MessageBoxButton.YesNo) == MessageBoxResult.Yes)
             {
@@ -92,6 +99,13 @@ namespace ElectronicStore.Pages
         private void AddNew(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void Clear(object sender, RoutedEventArgs e)
+        {
+            selectedItem = null;
+            NameBox.Text = "";
+            ItemsList.SelectedItem = null;
         }
     }
 }

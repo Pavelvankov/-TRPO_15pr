@@ -73,6 +73,14 @@ namespace ElectronicStore.Pages
         {
             if (selectedItem == null) { MessageBox.Show("Выберите бренд"); return; }
 
+            var hasProducts = db.Products.Any(p => p.BrandId == selectedItem.Id);
+
+            if (hasProducts)
+            {
+                MessageBox.Show("Нельзя удалить бренд! Сначала удалите товары этого бренда");
+                return;
+            }
+
             if (MessageBox.Show("Удалить бренд?", "Подтверждение",
                 MessageBoxButton.YesNo) == MessageBoxResult.Yes)
             {
@@ -87,6 +95,12 @@ namespace ElectronicStore.Pages
         private void GoBack(object sender, RoutedEventArgs e)
         {
             NavigationService.Navigate(new ManagerPage());
+        }
+        private void Clear(object sender, RoutedEventArgs e)
+        {
+            selectedItem = null;
+            NameBox.Text = "";
+            ItemsList.SelectedItem = null;
         }
     }
 }

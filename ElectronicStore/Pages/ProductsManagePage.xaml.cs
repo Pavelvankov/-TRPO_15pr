@@ -163,6 +163,16 @@ namespace ElectronicStore.Pages
         {
             if (selectedItem == null) { MessageBox.Show("Выберите товар"); return; }
 
+
+            var hasProducts = db.Products.Any(p => p.BrandId == selectedItem.Id);
+
+            if (hasProducts)
+            {
+                MessageBox.Show("Нельзя удалить бренд. Сначала удалите товары этого бренда.");
+                return;
+            }
+
+
             if (MessageBox.Show("Удалить товар?", "Подтверждение",
                 MessageBoxButton.YesNo) == MessageBoxResult.Yes)
             {

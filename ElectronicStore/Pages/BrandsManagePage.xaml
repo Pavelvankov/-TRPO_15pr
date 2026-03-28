@@ -31,9 +31,9 @@
                 <TextBox x:Name="NameBox" Margin="0 0 0 15"/>
 
                 <StackPanel Orientation="Horizontal">
-
-                    <Button Content="Добавить" Width="200" Height="60" Margin="0 0 5 0" Click="Save"/>
-                    <Button Content="Удалить" Width="200" Height="60" Click="Delete"/>
+                    <Button Content="Добавить" Width="150" Height="60" Margin="0 0 5 0" Click="Save"/>
+                    <Button Content="Очистить" Width="150" Height="60" Margin="0 0 5 0" Click="Clear"/>
+                    <Button Content="Удалить" Width="150" Height="60" Click="Delete"/>
                 </StackPanel>
             </StackPanel>
         </Grid>

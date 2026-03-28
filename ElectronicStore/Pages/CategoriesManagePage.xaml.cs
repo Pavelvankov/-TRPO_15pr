@@ -72,7 +72,12 @@ namespace ElectronicStore.Pages
         private void Delete(object sender, RoutedEventArgs e)
         {
             if (selectedItem == null) { MessageBox.Show("Выберите категорию"); return; }
-
+            var hasProducts = db.Products.Any(p => p.CategoryId == selectedItem.Id);
+            if (hasProducts)
+            {
+                MessageBox.Show("Нельзя удалить категорию! Сначала удалите товары этой категории");
+                return;
+            }
             if (MessageBox.Show("Удалить категорию?", "Подтверждение",
                 MessageBoxButton.YesNo) == MessageBoxResult.Yes)
             {
@@ -82,6 +87,13 @@ namespace ElectronicStore.Pages
                 NameBox.Text = "";
                 LoadList();
             }
+        }
+
+        private void Clear(object sender, RoutedEventArgs e)
+        {
+            selectedItem = null;
+            NameBox.Text = "";
+            ItemsList.SelectedItem = null;
         }
 
         private void GoBack(object sender, RoutedEventArgs e) =>
